@@ -4,7 +4,7 @@
   <title><![CDATA[Coding Melody]]></title>
   <link href="http://czyang.github.io/atom.xml" rel="self"/>
   <link href="http://czyang.github.io/"/>
-  <updated>2014-04-11T17:12:11+08:00</updated>
+  <updated>2014-04-11T20:38:05+08:00</updated>
   <id>http://czyang.github.io/</id>
   <author>
     <name><![CDATA[Chengzhi Yang]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>I just speak ill of my old wordpress blog to my friend, second day my old
 wordpress blog is not working any more. Every log on my VPS is normal, and
 the blog still can&rsquo;t open. So this blog is coming up, it used the Octopress and
-host by Github. Other words. Thanks for visit!</p>
+host by Github. Thanks for visit!</p>
 ]]></content>
   </entry>
   
