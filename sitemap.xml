@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://czyang.github.io/blog/2014/04/10/first-post/</loc>
+        <lastmod>2014-04-11T16:21:34+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://czyang.github.io/about/</loc>
+        <lastmod>2014-04-11T16:31:32+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://czyang.github.io/blog/archives/</loc>
+        <lastmod>2014-04-11T16:21:34+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://czyang.github.io/</loc>
+        <lastmod>2014-04-11T16:21:34+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://czyang.github.io/robots.txt</loc>
+        <lastmod>2014-04-11T14:58:25+08:00</lastmod>
+    </url>
+</urlset>
