@@ -15,13 +15,13 @@ $(document).ready(function() {
 
 function updateContainer() {
     var $containerWidth = $(window).width();
-    if ($containerWidth <= 700) {    // If use 767, in Ipad protrait mode will be swaped.
+    if ($containerWidth <= 767) {
         swapPlaces(".post-meta", ".post-container");
-	moveDatetime(true);
+	    moveDatetime(true);
     }
     else {
         swapPlaces(".post-container", ".post-meta");
-	moveDatetime(false);
+	    moveDatetime(false);
     }
 }
 
