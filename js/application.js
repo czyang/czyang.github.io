@@ -15,7 +15,7 @@ $(document).ready(function() {
 
 function updateContainer() {
     var $containerWidth = $(window).width();
-    if ($containerWidth <= 767) {
+    if ($containerWidth <= 700) {    // If use 767, in Ipad protrait mode will be swaped.
         swapPlaces(".post-meta", ".post-container");
 	moveDatetime(true);
     }
