@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Coding Melody]]></title>
-  <link href="http://czyang.github.io/atom.xml" rel="self"/>
-  <link href="http://czyang.github.io/"/>
-  <updated>2014-04-14T23:19:20+08:00</updated>
-  <id>http://czyang.github.io/</id>
+  <link href="http://octo.codingmelody.com/atom.xml" rel="self"/>
+  <link href="http://octo.codingmelody.com/"/>
+  <updated>2014-04-15T01:41:58+08:00</updated>
+  <id>http://octo.codingmelody.com/</id>
   <author>
     <name><![CDATA[Chengzhi Yang]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New blog coming]]></title>
-    <link href="http://czyang.github.io/blog/2014/04/10/first-post/"/>
+    <link href="http://octo.codingmelody.com/blog/2014/04/10/first-post/"/>
     <updated>2014-04-10T14:42:21+08:00</updated>
-    <id>http://czyang.github.io/blog/2014/04/10/first-post</id>
+    <id>http://octo.codingmelody.com/blog/2014/04/10/first-post</id>
     <content type="html"><![CDATA[<p>I just speak ill of my old wordpress blog to my friend, second day my old
 wordpress blog is not working any more. Every log on my VPS is normal, and
 the blog still can&rsquo;t open. So this blog is coming up, it used the Octopress and
