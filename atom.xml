@@ -4,7 +4,7 @@
   <title><![CDATA[Coding Melody]]></title>
   <link href="http://octo.codingmelody.com/atom.xml" rel="self"/>
   <link href="http://octo.codingmelody.com/"/>
-  <updated>2014-04-15T01:47:27+08:00</updated>
+  <updated>2014-04-18T14:25:08+08:00</updated>
   <id>http://octo.codingmelody.com/</id>
   <author>
     <name><![CDATA[Chengzhi Yang]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Crash of Ah is launched]]></title>
+    <link href="http://octo.codingmelody.com/blog/2014/04/18/Crash-of-Ah-is-Launched/"/>
+    <updated>2014-04-18T01:41:21+08:00</updated>
+    <id>http://octo.codingmelody.com/blog/2014/04/18/Crash-of-Ah-is-Launched</id>
+    <content type="html"><![CDATA[<p>After fixed a critical Bug on iOS 6. My iOS hilarious voice control game <a href="http://codingmelody.com/crash-of-ah.html"><strong>Crash of Ah</strong></a> was launched.
+It has a very simple mechanical to play. You shout &ldquo;Ah&rdquo; to control the Ah&rsquo;s spaceship and dodge
+the stone pillars like Flappy Bird. It&rsquo;s full of fun especially play with friends.</p>
+
+<p>This game made by my own. In the first I decided to finished the game in 2 weeks, but I finished
+the game over 2 months. In the develop time I found I could improve every part of my game, like
+program functional, graphics and sound effects, and I enjoy it. So I decided to make the game
+as better as possible. It&rsquo;s the main cause of the delay.</p>
+
+<p>The main features for me is:</p>
+
+<ul>
+<li>Background music(or noise&hellip;).</li>
+<li>Encryption mechanical to protect graphic resources. It&rsquo;s order to prevent the copycat from copy the game into another platform.</li>
+<li>Encryption Game Center score saving mechanical to protect the offline score. It&rsquo;s prevent the score cheater from replacing the offline score file.</li>
+<li>I drawn all graphics on a Wacom tablet.</li>
+<li>Game promote web pages.</li>
+<li>Game promote video.</li>
+</ul>
+
+
+<p>If you haven&rsquo;t try this little game, you must check it out on App store.<br/>
+<a href="https://itunes.apple.com/en/app/crash-of-ah/id848386594?ls=1&amp;mt=8">Download on App Store</a><br/>
+<a href="http://codingmelody.com/crash-of-ah.html">My promote page</a></p>
+
+<!-- more -->
+
+
+<p><img class="[class names]" src="http://octo.codingmelody.com/blogimage/ipad-0.png" width="384" height="512"> <img class="[class names]" src="http://octo.codingmelody.com/blogimage/ipad-2.png" width="384" height="512"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New blog coming]]></title>
