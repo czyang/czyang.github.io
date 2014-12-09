@@ -4,7 +4,7 @@
   <title><![CDATA[Coding Melody]]></title>
   <link href="http://octo.codingmelody.com/atom.xml" rel="self"/>
   <link href="http://octo.codingmelody.com/"/>
-  <updated>2014-04-22T22:50:50+08:00</updated>
+  <updated>2014-12-09T17:21:39+08:00</updated>
   <id>http://octo.codingmelody.com/</id>
   <author>
     <name><![CDATA[Chengzhi Yang]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[LD31 - Fire in Cage]]></title>
+    <link href="http://octo.codingmelody.com/blog/2014/12/09/ld31/"/>
+    <updated>2014-12-09T16:57:12+08:00</updated>
+    <id>http://octo.codingmelody.com/blog/2014/12/09/ld31</id>
+    <content type="html"><![CDATA[<p><img class="[class names]" src="http://octo.codingmelody.com/blogimage/ld31.gif" width="700" height="561"><br/>
+<a href="http://codingmelody.com/ld/ld31.html">Play</a><br/>
+<a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&amp;uid=43090">Ludum Dare Page</a><br/>
+<a href="http://codingmelody.com/ld/ld31.zip">Source Code</a><br/>
+This game is made in 48 hours, participate the Ludum Dare Jam (LD31). My first Haxe program, no time for sfx. Enjoy :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crash of Ah is launched]]></title>
